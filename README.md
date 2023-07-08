@@ -1,4 +1,6 @@
-# Template_name_short (**T***emplate* **N***ame*)
+# Template_name_short 
+Template name
+
 ` Template_name_short № курс `
 
 ПО-9 Мисиюк А. С.
